@@ -1,0 +1,3 @@
+﻿  Lr3sp.cpp
+C:\Users\sun24\Desktop\sp3\Lr3sp\Lr3sp\Lr3sp.cpp(8,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Lr3sp.vcxproj -> C:\Users\sun24\Desktop\sp3\Lr3sp\Debug\Lr3sp.exe
